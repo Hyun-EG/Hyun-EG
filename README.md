@@ -15,6 +15,7 @@
 
 - ⚡ Fun fact **AI can't surpass humans maybe...**
 
+- 🔨 Blog creation date : March 27, 2024
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
