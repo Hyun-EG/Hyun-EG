@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://velog.io/@codiee/posts](https://velog.io/@codiee/posts)
 
-- 💬 Ask me about **HTML,CSS**
+- 💬 Ask me about **HTML,CSS,JS**
 
 - 📫 How to reach me **codiee@naver.com**
 
