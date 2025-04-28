@@ -1,24 +1,8 @@
-<h1 align="center">Hi 👋, I'm SeongHyun Park</h1>
-<h3 align="center">I'm preparing for employment while completing a boot camp..!</h3>
+<h1 align="center">😀반갑습니다 박성현입니다.</h1>
 
 <br>
 <br>
 <br>
-
-  
-<p align="center"> - 🔭 I’m currently working on side project </p>
-
-<p align="center"> - 🌱 I’m currently learning Nodejs </p>
-
-<p align="center"> - 🤝 I’m looking for help with About React </p>
-
-<p align="center"> - 💬 Ask me about HTML,CSS,JS,React </p>
-
-<p align="center"> - 📫 How to reach me codiee@naver.com </p>
-
-<p align="center"> - ⚡ Fun fact AI can't surpass humans maybe... </p>
-
-<p align="center"> - 🔨 Blog creation date : March 27, 2024 </p>
  
 
 <p align="left">
